@@ -1,0 +1,11 @@
+jupyterlab_pygments~=0.3.0
+pip~=25.3
+attrs~=25.3.0
+cryptography~=46.0.3
+filelock~=3.17.0
+pandas~=2.2.2
+numpy~=1.26.4
+matplotlib~=3.10.7
+seaborn~=0.13.2
+SQLAlchemy~=2.0.37
+phik~=0.12.5
